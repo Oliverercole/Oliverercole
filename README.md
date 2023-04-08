@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oliverercole
 - 👀 I’m interested in Web Development and Data Science
-- 🌱 I’m currently learning Wen Penetration
+- 🌱 I’m currently learning Web3 and Deep Learning
 - 📫 How to reach me
       Dm me on my instagram : @3rcole
 
